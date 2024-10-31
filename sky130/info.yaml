@@ -1,0 +1,6 @@
+---
+project:
+  description: (Add project description here)
+  foundry: SW
+  process: sky130A
+  project_name: sky130
